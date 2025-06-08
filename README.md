@@ -17,13 +17,13 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
-📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-05-04]*
+📁 [Minimal Argument Parser](https://github.com/FoxKiana/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-05-04]*
 
 📁 [argparse](https://github.com/joshring/argparse) - Another, more full fledged argument parser library for C3 *[bumped 2025-04-26]*
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
 
-📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
+📁 [Minimal Logger](https://github.com/FoxKiana/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 
 📁 [Small networking library](https://github.com/ygorpontelo/c3-server-lib) - library that aims to add an async server and client implementation to c3 *[bumped 2025-04-22]*
 
@@ -49,7 +49,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Assuan protocol](https://github.com/konimarti/assuan.c3l) - C3 implementation of the Assuan IPC protocol. *[bumped 2025-04-30]*
 
-📁 [terminal color utils](https://github.com/chaoticva/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
+📁 [terminal color utils](https://github.com/FoxKiana/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
 
 ### Applications
 
@@ -71,7 +71,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 ### Other
 
-🔤 [lucy](https://github.com/lucy-language/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-06-02]*
+🔤 [lucy](https://github.com/lucy-language/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-06-08]*
 
 ## Contribute!
 
